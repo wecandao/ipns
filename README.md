@@ -1,4 +1,5 @@
-# IPFS System Name Service
+# <img src="wecando.svg" alt="WeCanDO" height="120px">
+# IPFS System Name Service Resolver
 
 ### _Are you tired of encountering the "504 Gateway Time-out" error from ipfs.io and dweb.link ?_
 
