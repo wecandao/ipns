@@ -18,7 +18,7 @@ To access your IPNS name, just use URL https://your-ipns-hash.ipns.surf
 ```
 # ipfs add --cid-version 1 example.html
 ```
-It will return a CID (hash) for this version of the file. You can access your file through the following URL: https://ipfs.io/ipfs/your-cid. 
+It will return a CID (hash) for this version of the file. You can access your file through the following URL: https://ipfs.io/ipfs/your-cid 
 ```
 Example output:
 added bafkreibvqu2vgcvyjlrwrqxldelrcr3mug45xrv56qcjfhwans66pa4jlm example.html
