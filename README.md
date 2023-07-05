@@ -26,7 +26,7 @@ added bafkreibvqu2vgcvyjlrwrqxldelrcr3mug45xrv56qcjfhwans66pa4jlm example.html
 Where "bafkreibvqu2vgcvyjlrwrqxldelrcr3mug45xrv56qcjfhwans66pa4jlm" is the CID of your file.
 You can use the following URLs to access your file:
 
-    https://ipfs.io/ipfs/bafkreibvqu2vgcvyjlrwrqxldelrcr3mug45xrv56qcjfhwans66pa4jlm
+https://ipfs.io/ipfs/bafkreibvqu2vgcvyjlrwrqxldelrcr3mug45xrv56qcjfhwans66pa4jlm
 or
 https://bafkreibvqu2vgcvyjlrwrqxldelrcr3mug45xrv56qcjfhwans66pa4jlm.ipfs.dweb.link
 #### 4. Publish your link to IPNS:
